@@ -3,6 +3,7 @@
 
 
 
+
 This project aims to develop a machine learning model to recommend suitable crops for cultivation based on various environmental and soil factors.
 
 ## Project Structure
@@ -58,10 +59,5 @@ This project aims to develop a machine learning model to recommend suitable crop
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License.
-```
 
 
