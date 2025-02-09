@@ -3,8 +3,6 @@
 
 
 
-# Crop Recommendation Model
-
 This project aims to develop a machine learning model to recommend suitable crops for cultivation based on various environmental and soil factors.
 
 ## Project Structure
