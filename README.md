@@ -1,8 +1,8 @@
 # Crop_Recommendation_Model
 
-Here is an updated README file for your "Crop_Recommendation_Model" repository:
 
-```markdown
+
+
 # Crop Recommendation Model
 
 This project aims to develop a machine learning model to recommend suitable crops for cultivation based on various environmental and soil factors.
@@ -66,4 +66,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 This project is licensed under the MIT License.
 ```
 
-Feel free to customize this template further based on the specific details and structure of your project.
+
